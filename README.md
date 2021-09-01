@@ -1,6 +1,6 @@
 # Replacing Docker Desktop
 
-Docker changed their licensing: you myst pay to use Docker Desktop unless you fall under their free tier guidelines.
+Docker changed their licensing: you must pay to use Docker Desktop unless you fall under their free tier guidelines.
 
 Their right. It is their proprietary product. We knew that when we downloaded the GUI.
 
