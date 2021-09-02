@@ -41,6 +41,10 @@ Using docker + docker-machine may not be a suitable way forward.
 
 Some other ways may be to use Vagrant+VirtualBox
 
+## Teams
+
+If your organization already subscribes to Teams because of a previous change to Docker Hub, you are covered by the existing Teams license.
+
 ## References:
 
 Docker Machine: https://docs.docker.com/machine/get-started/
